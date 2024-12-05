@@ -5,7 +5,7 @@
 - 📫 How to reach me ...INSTA ID @zx_john_
 - 😄 Pronouns: ...
 - ⚡ Fun fact:... I DONT KNOW MORE ABOUT THId
-- LETS INSTALL ROOT FOR TERMUX---->
+- LETS INSTALL ROOT FOR TERMUX----->
 - # install git
 pkg install git -y
 - # clone from github with git
