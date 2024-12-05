@@ -8,4 +8,6 @@
 - LETS INSTALL ROOT FOR TERMUX---->
 - # install git
 pkg install git -y
+- # clone from github with git
+git clone https://github.com/hctilg/root-termux.git && cd root-termux && chmod +x *
 -
