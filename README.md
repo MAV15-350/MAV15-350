@@ -10,6 +10,8 @@
 pkg install git -y
 - # clone from github with git
 git clone https://github.com/hctilg/root-termux.git && cd root-termux && chmod +x *
--# install packages
+- # install packages
 pkg install wget proot -y
--
+- # run bash script `install.sh`
+yes | bash install.sh
+- 
