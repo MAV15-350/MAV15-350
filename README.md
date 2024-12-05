@@ -16,4 +16,6 @@ pkg install wget proot -y
 yes | bash install.sh
 - # run bash script `start.sh`
 bash start.sh  # or `./start.sh`
-- 
+- apt update
+- apt upgrade
+- apt install sudo
