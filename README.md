@@ -14,4 +14,6 @@ git clone https://github.com/hctilg/root-termux.git && cd root-termux && chmod +
 pkg install wget proot -y
 - # run bash script `install.sh`
 yes | bash install.sh
+- # run bash script `start.sh`
+bash start.sh  # or `./start.sh`
 - 
